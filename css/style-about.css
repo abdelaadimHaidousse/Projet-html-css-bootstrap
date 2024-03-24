@@ -1,0 +1,22 @@
+div#main-wrapper{
+    background-color: white;
+}
+
+div#main-wrapper nav{
+    background-color: #d2e3ff;
+}
+
+img#img-menuisier{
+    width: 100%;
+}
+h2#tittle{
+    color: black;
+    margin-top: 60px;
+}
+div#about-section{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+p#about{
+    color: blue;
+}

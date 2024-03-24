@@ -1,0 +1,117 @@
+div#top-band{
+    background-color: black;
+}
+#top-band a{
+    color: white;
+}
+#top-band i.bi{
+    color:rgb(255, 81, 0);
+}
+div#main-wrapper{
+    background-color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+div#main-wrapper nav{
+    background-color: #d2e3ff;
+}
+div#srvc h1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+p#contactus{
+    color: blue;
+}
+div#slid{
+    text-align: left;
+}
+h2#tittle{
+    color: black;
+}
+p#text{
+    color: black;
+}
+div#cards-wrapper{
+    margin: auto;
+    margin-top: 1%;
+    width: 100%;
+    margin-bottom: 50px;
+    max-width: 700px;
+    text-align: center;
+}
+div.mycard{
+    /* width: 210px;
+    height: 170px; */
+    padding: 1%;
+    box-shadow: 0px 0px 10px 1px #b5b5b5;
+    background-color: white;
+    color:black;
+}
+div.mycard:hover{
+    background-color: #ff8a1e;
+    color: #ffffed;
+}
+div.mycard i.bi {
+    font-size: 70px;
+
+}
+div#btn{
+    margin: auto;
+    margin-bottom: 15px;
+    text-align: center;
+}
+footer#footer{
+    background-color: #0a0f43;
+    height: 500px;
+    color: white;
+    text-align: center;
+}
+footer#footer h2{
+    padding: 40px 0px;
+}
+div#rounded-icon-wrapper{
+    width: 100%;
+    max-width: 700px;
+    text-align: center;
+    margin: auto;
+
+}
+div.rounded-icon{
+    margin: auto;
+    padding: 10%;
+    font-size: 21px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #0349b0;
+}
+div#rounded-icon-wrapper hr#center-line{
+    position: relative;
+    top: 50px;
+    width: 70%;
+    color: white;
+    border: 1px solid white;
+}
+div#icons-social-media{
+    background-color: white;
+    color: #0349b0;
+    width: 110px;
+    margin: auto;
+}
+input#txt1{
+    margin: auto;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 1px #b5b5b5;
+}
+input#txt4{
+    margin: auto;
+    width: 400px;
+    padding: 70px;
+    box-shadow: 0px 0px 10px 1px #b5b5b5;
+}
+#img-loca{
+    margin-top: 100px;
+
+}
