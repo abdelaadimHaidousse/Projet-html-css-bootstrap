@@ -4,6 +4,16 @@ div#top-band{
 #top-band a{
     color: white;
 }
+
+div#about-section {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+div#mapcontainer{
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
 #top-band i.bi{
     color:rgb(255, 81, 0);
 }
@@ -17,7 +27,7 @@ div#main-wrapper nav{
 }
 div#srvc h1{
     text-align: center;
-    margin-top: 100px;
+    /* margin-top: 100px; */
     margin-bottom: 100px;
 }
 p#contactus{
@@ -99,17 +109,21 @@ div#icons-social-media{
     width: 110px;
     margin: auto;
 }
-input#txt1{
+input#txt1 {
+    color: gray;
     margin: auto;
     width: 400px;
     padding: 10px;
-    box-shadow: 0px 0px 10px 1px #b5b5b5;
+    border: none;
+    box-shadow: 0px 0px 7px 0px #b5b5b5;
 }
 input#txt4{
+    color: gray;
     margin: auto;
     width: 400px;
     padding: 70px;
-    box-shadow: 0px 0px 10px 1px #b5b5b5;
+    border: none;
+    box-shadow: 0px 0px 7px 1px #b5b5b5;
 }
 #img-loca{
     margin-top: 100px;
